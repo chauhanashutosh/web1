@@ -1,0 +1,43 @@
+#h1
+{
+    text-align: center;
+    font-family:cursive ;
+    font-size: 3em;
+    color: blue;
+}
+#l1
+{
+    font-size: 10em;
+}
+.para
+{
+    text-align:center;
+    color: brown;
+    font-size: 15px;
+    font-family: serif;
+    font-weight:bolder;
+}
+#div1
+{
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    
+}
+.btn
+{
+    color:rgb(0, 2, 128);
+    background-color: rgb(127, 255, 246);
+    font-family:fantasy;
+    font-size: 2em;
+    border: 20px;
+    border-radius: 50px;
+    border-color:rgb(129, 185, 18);
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.25s;
+ 
+}
+.btn:hover{
+    background-color: rgb(42, 165, 104);
+}
